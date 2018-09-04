@@ -1,0 +1,2 @@
+# expenseManager
+my trial app
